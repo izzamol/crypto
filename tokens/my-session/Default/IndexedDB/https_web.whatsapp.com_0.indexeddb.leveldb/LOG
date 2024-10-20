@@ -1,0 +1,49 @@
+2024/10/19-14:42:09.211 6b0c Reusing MANIFEST C:\Users\Hospcom\Desktop\crypto\tokens\my-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/19-14:42:09.211 6b0c Recovering log #83
+2024/10/19-14:42:09.216 6b0c Reusing old log C:\Users\Hospcom\Desktop\crypto\tokens\my-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000083.log 
+2024/10/19-14:42:09.216 6b0c Delete type=2 #82
+2024/10/19-14:42:09.781 6b0c Level-0 table #88: started
+2024/10/19-14:42:09.784 4928 Current memtable full; waiting...
+2024/10/19-14:42:09.786 6b0c Level-0 table #88: 82950 bytes OK
+2024/10/19-14:42:09.789 6b0c Delete type=0 #83
+2024/10/19-14:42:09.790 6b0c Level-0 table #90: started
+2024/10/19-14:42:09.794 6b0c Level-0 table #90: 1185 bytes OK
+2024/10/19-14:42:09.795 5a88 Current memtable full; waiting...
+2024/10/19-14:42:09.796 6b0c Delete type=0 #87
+2024/10/19-14:42:09.797 6ecc Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at '\x00*\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17805 : 0
+2024/10/19-14:42:09.797 6ecc Compacting 2@0 + 1@1 files
+2024/10/19-14:42:09.798 6ecc Level-0 table #93: started
+2024/10/19-14:42:09.801 6b0c Current memtable full; waiting...
+2024/10/19-14:42:09.802 6ecc Level-0 table #93: 703 bytes OK
+2024/10/19-14:42:09.804 6ecc Delete type=0 #89
+2024/10/19-14:42:09.806 6ecc Level-0 table #95: started
+2024/10/19-14:42:09.810 6ecc Level-0 table #95: 695 bytes OK
+2024/10/19-14:42:09.812 6ecc Delete type=0 #91
+2024/10/19-14:42:09.817 6ecc Generated table #92@0: 2845 keys, 38308 bytes
+2024/10/19-14:42:09.818 6ecc Compacted 2@0 + 1@1 files => 38308 bytes
+2024/10/19-14:42:09.819 6ecc compacted to: files[ 2 1 1 0 0 0 0 ]
+2024/10/19-14:42:09.819 4258 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17840 : 0
+2024/10/19-14:42:09.820 4258 Compacting 2@0 + 1@1 files
+2024/10/19-14:42:09.828 4258 Generated table #96@0: 2807 keys, 37360 bytes
+2024/10/19-14:42:09.828 4258 Compacted 2@0 + 1@1 files => 37360 bytes
+2024/10/19-14:42:09.830 4258 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/19-14:42:09.830 4258 Delete type=2 #92
+2024/10/19-14:42:09.830 4258 Delete type=2 #93
+2024/10/19-14:42:09.830 4258 Delete type=2 #95
+2024/10/19-14:42:09.831 4258 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/19-14:42:09.831 4258 Manual compaction at level-0 from '\x00)\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17840 : 0 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/19-14:42:09.832 4258 Manual compaction at level-0 from '\x00*\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17805 : 0 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/19-14:42:09.832 4928 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/19-14:42:09.839 6b0c Level-0 table #98: started
+2024/10/19-14:42:09.842 6b0c Level-0 table #98: 7863 bytes OK
+2024/10/19-14:42:09.844 6b0c Delete type=2 #85
+2024/10/19-14:42:09.844 6b0c Delete type=2 #88
+2024/10/19-14:42:09.844 6b0c Delete type=2 #90
+2024/10/19-14:42:09.844 6b0c Delete type=0 #94
+2024/10/19-14:42:09.846 6b0c Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x0a\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 18370 : 0
+2024/10/19-14:42:09.846 6b0c Compacting 1@0 + 1@1 files
+2024/10/19-14:42:09.852 6b0c Generated table #99@0: 2328 keys, 19810 bytes
+2024/10/19-14:42:09.852 6b0c Compacted 1@0 + 1@1 files => 19810 bytes
+2024/10/19-14:42:09.853 6b0c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/19-14:42:09.854 6b0c Delete type=2 #98
+2024/10/19-14:42:09.854 6b0c Manual compaction at level-0 from '\x00\x1e\x0a\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 18370 : 0 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

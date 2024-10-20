@@ -1,0 +1,27 @@
+2024/10/20-14:37:57.000 1228 Reusing MANIFEST C:\Users\Hospcom\Desktop\crypto\tokens\my-session3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/20-14:37:57.000 1228 Recovering log #28
+2024/10/20-14:37:57.093 1228 Reusing old log C:\Users\Hospcom\Desktop\crypto\tokens\my-session3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2024/10/20-14:37:57.093 1228 Delete type=2 #27
+2024/10/20-14:37:57.094 1228 Delete type=2 #29
+2024/10/20-14:37:59.202 5e78 Level-0 table #33: started
+2024/10/20-14:37:59.208 5300 Current memtable full; waiting...
+2024/10/20-14:37:59.259 5e78 Level-0 table #33: 1026414 bytes OK
+2024/10/20-14:37:59.261 5e78 Delete type=0 #28
+2024/10/20-14:37:59.263 1228 Level-0 table #35: started
+2024/10/20-14:37:59.269 1228 Level-0 table #35: 454 bytes OK
+2024/10/20-14:37:59.271 1228 Delete type=0 #32
+2024/10/20-14:37:59.272 1228 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 97230 : 0
+2024/10/20-14:37:59.272 1228 Compacting 1@0 + 1@1 files
+2024/10/20-14:37:59.316 1228 Generated table #36@0: 23500 keys, 538230 bytes
+2024/10/20-14:37:59.316 1228 Compacted 1@0 + 1@1 files => 538230 bytes
+2024/10/20-14:37:59.317 1228 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/20-14:37:59.318 1228 Delete type=2 #33
+2024/10/20-14:37:59.318 1228 Delete type=2 #35
+2024/10/20-14:37:59.319 1228 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/20-14:37:59.319 1228 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 97230 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/20-14:38:02.067 4b90 Compacting 1@1 + 1@2 files
+2024/10/20-14:38:02.121 4b90 Generated table #37@1: 21846 keys, 790173 bytes
+2024/10/20-14:38:02.121 4b90 Compacted 1@1 + 1@2 files => 790173 bytes
+2024/10/20-14:38:02.123 4b90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/20-14:38:02.124 4b90 Delete type=2 #30
+2024/10/20-14:38:02.124 4b90 Delete type=2 #36
